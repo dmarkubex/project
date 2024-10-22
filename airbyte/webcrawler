@@ -1,0 +1,34 @@
+import asyncio
+from crawl4ai import AsyncWebCrawler
+from crawl4ai.chunking_strategy import RegexChunking
+from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
+import json
+
+async def main():
+    schema = {
+        "name": "News Articles",
+        "baseSelector": "article.tease-card",
+        "fields": [
+            {
+                "name": "title",
+                "selector": "h3",
+                "type": "text",
+            },
+            {
+                "name": "summary",
+                "selector": "div.tease-card__info",
+                "type": "text",
+            }
+        ],
+    }
+
+    async with AsyncWebCrawler(verbose=True) as crawler:
+        result = await crawler.arun(
+            url="https://www.nbcnews.com/business",
+            extraction_strategy=JsonCssExtractionStrategy(schema, verbose=True)
+        )
+        extracted_data = json.loads(result.extracted_content)
+        print(f"Extracted {len(extracted_data)} articles")
+        print(json.dumps(extracted_data[0], indent=8))
+
+asyncio.run(main())
