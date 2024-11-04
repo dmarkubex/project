@@ -1,0 +1,172 @@
+[
+    {
+        "year": "2023",
+        "product_type": "风电",
+        "process_name": "绝缘",
+        "title_name": "解决FD-JG电缆绝缘偏软问题",
+        "department_name": "低压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "采购规范中硬度指标偏低；\n电缆上盘防护不良。",
+        "solve_method": "将硅橡胶采购规范中邵氏硬度指标从不低于55调整为65±3；\n使用锂电式手持热熔枪替代原有固定方式。"
+    },
+    {
+        "year": "2023",
+        "product_type": "高压电力电缆",
+        "process_name": "交联",
+        "title_name": "解决高压线芯表面压痕问题\n",
+        "department_name": "超高压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "线芯进入冷却管触点位置发生变化；\n交联工艺温度不适宜，线芯冷却不充分。",
+        "solve_method": "采取对前三节冷却管高度降低10mm；\n对重新计算开机工艺，将硫化管温度由350/330/310/290/270/250/235/220，调整为335/325/315/305/290/260/195/175℃。"
+    },
+    {
+        "year": "2023",
+        "product_type": "低压电缆",
+        "process_name": "屏蔽",
+        "title_name": "解决32锭编织机漏编问题",
+        "department_name": "智能电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "编织机缺丝、断丝检测不到位；\n尼龙模具已磨损，刮到铜丝。",
+        "solve_method": "给编织机加装自动的简易断丝检测装置；\n更换钨钢模具代替原本的尼龙模具。"
+    },
+    {
+        "year": "2023",
+        "product_type": "盘具",
+        "process_name": "盘具加工",
+        "title_name": "解决盘具筒体中板加工后尺寸不一致的问题",
+        "department_name": "盘具厂",
+        "release_date": "2024.3.12",
+        "main_reason": "双头锯床的中板稳定架出现问题",
+        "solve_method": "1.打磨中板稳定架使两端大小尺寸弄一致；\n2.制作2个小挡板，防止中板稳定架工作时移动。"
+    },
+    {
+        "year": "2023",
+        "product_type": "高压电力电缆",
+        "process_name": "交联",
+        "title_name": "解决高压二厂1#交联机绝缘凹陷问题",
+        "department_name": "高压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "交联机固定模不合格；\n机头热传导效果差。",
+        "solve_method": "1、对在用固定模进行打磨维修；\n2、采购新固定模进行替换。\n1、采购循环水泵，对机头流道进行清洗疏通。"
+    },
+    {
+        "year": "2023",
+        "product_type": "架空导线",
+        "process_name": "束绞",
+        "title_name": "解决铜铝合金绞线退火后盘底绞线压伤问题",
+        "department_name": "复合导线厂",
+        "release_date": "2024.3.12",
+        "main_reason": "收线盘具使用不当；\n牵引轮过线不合理。",
+        "solve_method": "筒体孔径有原来的37mm降为12mm，固化进作业指导书；\n牵引轮6道轨道全部使用，不允许跳轨，修改作业指导书。"
+    },
+    {
+        "year": "2023",
+        "product_type": "架空导线",
+        "process_name": "束绞",
+        "title_name": "提升JLZ2X1KF1B-36640 单位长度质量稳定性",
+        "department_name": "复合导线厂",
+        "release_date": "2024.3.12",
+        "main_reason": "铝丝放线张力未调节好；\n铝丝表面温度过高。",
+        "solve_method": "调整各机台铝丝放线张力；\n铝丝停放16小时，达到室温后再绞线。"
+    },
+    {
+        "year": "2023",
+        "product_type": "充电桩电缆",
+        "process_name": "绝缘",
+        "title_name": "解决充电桩电缆尼龙绝缘焦子问题",
+        "department_name": "低压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "挤塑机头不适合；\n螺筒清理不到位。",
+        "solve_method": "采购单色机头替代双色机头生产，杜绝辅机进料口积料导致焦子问题；\n由原来的不加滤网改进为增加2层滤网，起到对螺筒内焦子过滤的作用。"
+    },
+    {
+        "year": "2023",
+        "product_type": "布电线",
+        "process_name": "绝缘",
+        "title_name": "降低吴华经理单芯布电线色差率",
+        "department_name": "高端电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "粒子与色母搅拌不均匀；\n色母颜色不一致。",
+        "solve_method": "将计划调整至有色母混料机的机台生产；\n制作颜色标准件下发机台核对。"
+    },
+    {
+        "year": "2023",
+        "product_type": "耐火电缆",
+        "process_name": "硅烷交联绝缘",
+        "title_name": "解决120机生产耐火线硅烷交联绝缘拉薄问题",
+        "department_name": "电力电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "生产时绝缘层附着力小",
+        "solve_method": "在120机机头穿线处增加抽真空装置，抽真空后增加绝缘料附着力，防止拉薄。"
+    },
+    {
+        "year": "2023",
+        "product_type": "PVC绝缘装备电缆",
+        "process_name": "成缆",
+        "title_name": "提升多芯电缆绝缘缺陷检出率",
+        "department_name": "质量服务部",
+        "release_date": "2024.3.12",
+        "main_reason": "成缆穿线管内壁毛糙",
+        "solve_method": "①成缆机中心通道出线口增加过线环起到居中作用；\n②绕包头前面增加工频火花机，对于线芯损伤及时检出。"
+    },
+    {
+        "year": "2023",
+        "product_type": "中压电缆",
+        "process_name": "交联",
+        "title_name": "解决中压电缆厂3号交联机僵块问题",
+        "department_name": "中压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "原材料温度和工艺温度设定不匹配；\n夹具温度不均匀。",
+        "solve_method": "对不同厂家的绝缘料进行温度固化。\n更换加热棒。"
+    },
+    {
+        "year": "2023",
+        "product_type": "汽车线",
+        "process_name": "束绞",
+        "title_name": "解决比亚迪汽车线导体凸出问题",
+        "department_name": "高端电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "导体结构不合理，导体易松散；\n模具不匹配。",
+        "solve_method": "导体绞合结构由(1+6+12+18)*78/0.150改为 (1+6+12)*152/0.150；绞制层数由三层变为两层；增大内层节距，第一层为114-134mm第二层为115-134mm；\n模具由4.5/7.3/9.8mm，变更为内层6.0-6.3mm，外层9.5-9.55mm。"
+    },
+    {
+        "year": "2023",
+        "product_type": "高压电力电缆",
+        "process_name": "成缆",
+        "title_name": "解决高压一厂3600成缆机蛇形问题",
+        "department_name": "高压电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "成缆分线板过线模小；\n并线导轮架太窄。",
+        "solve_method": "采购新的大孔径钢模，均衡线芯受力；\n更换并线导轮架，减少放线角度变化。"
+    },
+    {
+        "year": "2023",
+        "product_type": "小截面6平方以下XLPE绝缘电缆",
+        "process_name": "绝缘",
+        "title_name": "提升小截面6平方以下XLPE绝缘热延伸合格率",
+        "department_name": "特种电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "温水房漏气",
+        "solve_method": "采购不锈钢温水池"
+    },
+    {
+        "year": "2023",
+        "product_type": "岸电电缆",
+        "process_name": "硫化",
+        "title_name": "解决CAVOFLEX AMP-610kV岸电电缆线芯印痕及黏连问题",
+        "department_name": "海洋电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "线芯硫化不充足",
+        "solve_method": "线芯全硫化"
+    },
+    {
+        "year": "2023",
+        "product_type": "纵包类外护电缆",
+        "process_name": "纵包",
+        "title_name": "改善纵包电力电缆护套外观不良问题",
+        "department_name": "智能电缆厂",
+        "release_date": "2024.3.12",
+        "main_reason": "纵包机预成型模口间隙小；\n纵包模具与半成品的外径尺寸不符。",
+        "solve_method": "对接金工车间调整预成型模口，增大模口间隙节距，保证纵包带通过无卡带；\n对接金工车间加工模具套环，用于镶嵌成缆并线模具。"
+    }
+]
