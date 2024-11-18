@@ -38,7 +38,7 @@ def fetch_fault_descriptions():
 
 # 清理输入数据
 def clean_input(input_str):
-    return input_str.encode('utf-8', 'ignore').decode('utf-8')
+    return input_str.replace('\n', ' ').encode('utf-8', 'ignore').decode('utf-8')
 
 # 调用API获取建议解决措施
 def get_suggested_solution(ac_name, fault_description):
